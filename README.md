@@ -2,7 +2,7 @@
 A Twitter bot is a type of bot software that controls a Twitter account via the Twitter API. The bot software may autonomously perform actions such as tweeting, retweeting, liking, following, unfollowing, or direct messaging other accounts.
 
 SETUP REQUIREMENTS
-* First, I downloaded Tweepy. You can do this using the pip package manager(pip install tweepy),also you need python interpreter(i used 3.5 version)
+* First, I downloaded Tweepy. You can do this using the pip package manager(pip install tweepy),also you need python interpreter(i used 3.5 version),importing libraries like paralleldots,NLTK(natural language toolkit).
 
 CREDENTIALS
 
